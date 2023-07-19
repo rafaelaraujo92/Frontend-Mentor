@@ -27,7 +27,7 @@ p{
 .card{
     background-color: white;
     max-width: 200px;
-    min-width: 200px;
+    width: 200px;
     padding: 10px;
     margin: auto;
     border-radius: 15px;
